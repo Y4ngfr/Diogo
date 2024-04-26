@@ -1,7 +1,7 @@
-#include <GeoShell.hpp>
 #include <fstream>
 #include <string>
 #include <algorithm>
+#include "../include/GeoShell.hpp"
 
 //******************************************************************//
 //**************************** FEATURES ****************************//

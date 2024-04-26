@@ -1,7 +1,8 @@
-#include <Garage.hpp>
-#include <Car.hpp>
-#include <Lorry.hpp>
-#include <PickupTruck.hpp>
+#include <iostream>
+#include "../include/Garage.hpp"
+#include "../include/Car.hpp"
+#include "../include/Lorry.hpp"
+#include "../include/PickupTruck.hpp"
 
 //******************************************************************//
 //*************************** CONSTRUCTOR **************************//

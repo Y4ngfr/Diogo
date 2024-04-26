@@ -1,4 +1,5 @@
-#include <Client.hpp>
+#include <iostream>
+#include "../include/Client.hpp"
 
 uint32_t Client::new_id = 0;
 
@@ -8,7 +9,10 @@ uint32_t Client::new_id = 0;
 
 Client::Client(
     std::string name,
-    std::string cpf)
+    std::string cpf,
+    std::string adress,
+    std::string phone,
+    std::string email)
 {
     /*
         Description: Client constructor.
@@ -26,6 +30,9 @@ Client::Client(
     this->id = Client::new_id++;
     this->cpf = cpf;
     this->name = name;
+    this->adress = adress;
+    this->phone = phone;
+    this->email = email;
 }
 
 //******************************************************************//

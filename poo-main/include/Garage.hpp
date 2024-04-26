@@ -1,8 +1,8 @@
 #ifndef GARAGE_H
 #define GARAGE_H
 
-#include "Vehicle.hpp"
 #include <vector>
+#include "Vehicle.hpp"
 
 class Garage
 {

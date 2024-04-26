@@ -1,8 +1,8 @@
-#include <all.hpp>
+#include <iostream>
+#include "include/all.hpp"
 
 int main()
 {
-
     // Creating a new Garage object
     Garage *garagem_do_tonho = new Garage();
 
@@ -15,9 +15,9 @@ int main()
     garagem_do_tonho->add_vehicle("WWW333WWW555", "Volkswagen Gol", 2016, 480, 800, {100, 100}, "car", 1);
 
     // Creating clients
-    Client *cliente1 = new Client("Claudio", "123.456.789-09");
-    Client *cliente2 = new Client("Marcelo", "987.654.321-00");
-    Client *cliente3 = new Client("Luiz Ernesto", "789.957.010-72");
+    Client *cliente1 = new Client("Claudio", "123.456.789-09", "rua 1", "12344555", "example@org");
+    Client *cliente2 = new Client("Marcelo", "987.654.321-00", "rua 2", "1234567", "email@mail");
+    Client *cliente3 = new Client("Luiz Ernesto", "789.957.010-72", "rua 3", "9998271365", "mail@hotmail");
 
     // Creating orders
     Order *pedido1 = new Order(0, "Fogão 6 bocas", "car", "Alegrete Brazil", "Porto Alegre Brazil", 500, 40);
@@ -39,6 +39,7 @@ int main()
     {
         controlador_do_tonho->print_pending_transports(i);
     }
+
     std::cout << std::endl;
 
     // Calling method to close transport
@@ -49,6 +50,7 @@ int main()
     {
         controlador_do_tonho->print_pending_transports(i);
     }
+    
     std::cout << std::endl;
 
     return 0;

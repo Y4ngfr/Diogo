@@ -1,6 +1,7 @@
-#include <TransportManager.hpp>
-#include <GeoShell.hpp>
-#include <cmath>
+#include <iostream>
+#include <cmath> 
+#include "../include/TransportManager.hpp"
+#include "../include/GeoShell.hpp"
 
 //******************************************************************//
 //*************************** CONSTRUCTOR **************************//
