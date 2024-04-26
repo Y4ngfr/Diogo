@@ -23,8 +23,8 @@ Client::Client(
     */
 
     // Returning error if document is not valid
-    if (!(this->validate_document(cpf, "cpf")))
-        throw std::invalid_argument("[VALUE ERROR]: Invalid CPF");
+    // if (!(this->validate_document(cpf, "cpf")))
+        // throw std::invalid_argument("[VALUE ERROR]: Invalid CPF");
 
     // Setting attributes
     this->id = Client::new_id++;

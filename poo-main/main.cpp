@@ -25,9 +25,16 @@ int main()
     Order *pedido3 = new Order(1, "Bazuca", "lorry", "Barcelona Spain", "Moscou Russia", 5, 30);
     Order *pedido4 = new Order(2, "Pato de borracha para debugar", "lorry", "Alegrete Brazil", "Moscou Russia", 0.1, 0.1);
 
+    // Entry Manager
+    EntryManager *entry = new EntryManager();
+
+    entry->setPathFile("input/dados_entregas.csv");
+    entry->inputFileProcessing();
+
     // Creating a new TransportManager object using garagem_do_tonho vehicles
     
     // Allocating new transports to be done
+
     TransportManager *controlador_do_tonho = new TransportManager(garagem_do_tonho);
     controlador_do_tonho->new_transport(pedido1, 0);
     controlador_do_tonho->new_transport(pedido2, 0);
@@ -35,7 +42,7 @@ int main()
     controlador_do_tonho->new_transport(pedido4, 0);
     
     // Printing all transports to be done
-    for (int i = 0; i < 6; i++)
+    for(int i = 0; i < 6; i++)
     {
         controlador_do_tonho->print_pending_transports(i);
     }
@@ -50,8 +57,19 @@ int main()
     {
         controlador_do_tonho->print_pending_transports(i);
     }
-    
+
     std::cout << std::endl;
+
+    delete garagem_do_tonho;
+    delete cliente1;
+    delete cliente2;
+    delete cliente3;
+    delete pedido1;
+    delete pedido2;
+    delete pedido3;
+    delete pedido4;
+    delete entry;
+    delete controlador_do_tonho;
 
     return 0;
 }

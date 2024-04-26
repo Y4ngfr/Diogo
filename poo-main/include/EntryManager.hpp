@@ -18,7 +18,7 @@ class EntryManager
         ~EntryManager();
 
         std::string getPathFile();
-        std::string setPathFile(std::string pathFile);
+        void setPathFile(std::string pathFile);
 
         int inputFileProcessing();
         void clearClients();
