@@ -1,0 +1,1037 @@
+Nome,CPF,Endereço,Telefone,Email,Endereço coleta,Endereço entrega,Peso (kg),Volume (m³),Prioridade
+Asafe Vasconcelos,74570729850,"Rua de da Cruz, 5
+Savassi
+89833-698 Rocha Grande / SC",21 3613 6522,julianalopes@example.com,"Rua de da Cruz, 5
+Savassi
+89833-698 Rocha Grande / SC","Aeroporto Castro, 85
+Vila Das Oliveiras
+59282445 Pastor / AP",3000,5,sim
+Srta. Sabrina Leão,19849842337,"Jardim de Porto, 26
+Túnel De Ibirité
+06621-565 Novais / AM",+55 (084) 8608-3210,nogueirapietro@example.org,"Jardim de Porto, 26
+Túnel De Ibirité
+06621-565 Novais / AM","Alameda Costa, 194
+Ipe
+99245832 das Neves / GO",3000,5,sim
+Murilo Fernandes,10837703904,"Lago de Sales, 196
+Vila Mantiqueira
+51364-726 da Conceição / PA",+55 (071) 8488-5186,smoreira@example.com,"Lago de Sales, 196
+Vila Mantiqueira
+51364-726 da Conceição / PA","Fazenda de Nogueira, 38
+Minas Brasil
+12812-918 Jesus do Oeste / RS",4000,2,sim
+Alana Rios,10820889787,"Trecho Arthur Miguel Campos, 451
+Monte Azul
+59882977 Pimenta / PA",0500-357-0620,siqueiramaria-clara@example.org,"Trecho Arthur Miguel Campos, 451
+Monte Azul
+59882977 Pimenta / PA","Distrito de Cirino
+Vila De Sá
+50080719 Aparecida / TO",9000,3,sim
+Olivia Nogueira,84241373963,"Passarela Vicente Borges
+Grotinha
+95071-848 Aragão do Norte / SP",0900-029-7595,alexandre57@example.net,"Passarela Vicente Borges
+Grotinha
+95071-848 Aragão do Norte / SP","Viaduto de Silva, 775
+Tiradentes
+36355155 Albuquerque / MS",5000,5,não
+Emanuel Carvalho,30973427887,"Fazenda de Brito, 54
+Inconfidência
+12299-537 Sá / RN",(041) 7323-8361,martinsdavi-miguel@example.org,"Fazenda de Brito, 54
+Inconfidência
+12299-537 Sá / RN","Recanto Gomes, 824
+Vila Nova Cachoeirinha 1ª Seção
+68506217 Carvalho de Moraes / PA",2000,2,não
+Yan Montenegro,54422166153,"Setor de Araújo, 23
+Vila Nova Cachoeirinha 1ª Seção
+55940-021 da Rocha de Oliveira / MG",+55 31 6151 2505,ninavieira@example.com,"Setor de Araújo, 23
+Vila Nova Cachoeirinha 1ª Seção
+55940-021 da Rocha de Oliveira / MG","Alameda Dias, 91
+Vila Nova
+24131301 Novaes do Galho / TO",3000,5,não
+Davi Miguel Ferreira,13707418984,"Vila de da Mota, 52
+Pindura Saia
+01484136 Rios de Pacheco / PB",41 5966-1588,maria-fernanda99@example.org,"Vila de da Mota, 52
+Pindura Saia
+01484136 Rios de Pacheco / PB","Pátio Nogueira, 298
+Ventosa
+60563989 Lopes / AC",5000,1,não
+Bianca Barbosa,88697656606,"Rua de Costa, 70
+Nossa Senhora Aparecida
+52871-946 Pinto do Amparo / PI",31 7698-6516,mendoncacalebe@example.com,"Rua de Costa, 70
+Nossa Senhora Aparecida
+52871-946 Pinto do Amparo / PI","Condomínio Gabrielly Araújo, 935
+Dom Bosco
+29791977 Machado do Sul / SC",7000,3,não
+Bella Moreira,58058799210,"Aeroporto Milena Sousa, 83
+Vila Paraíso
+84686-446 Lopes / SC",11 7928 8386,gaelda-costa@example.com,"Aeroporto Milena Sousa, 83
+Vila Paraíso
+84686-446 Lopes / SC","Condomínio de Vieira, 3
+Maria Goretti
+71371360 Almeida / TO",6000,4,não
+Gustavo Henrique Brito,94341533368,"Praia Benício Pacheco, 4
+Mala E Cuia
+79882-248 Brito / PI",(061) 6081 2581,leonardo55@example.com,"Praia Benício Pacheco, 4
+Mala E Cuia
+79882-248 Brito / PI","Jardim Silva, 5
+Vista Alegre
+41906214 Siqueira da Praia / AM",9000,5,não
+Ana Beatriz Sá,31920610224,"Esplanada de da Mata, 76
+Cidade Nova
+33259507 Santos de Minas / GO",+55 (021) 7966-2358,zmendes@example.com,"Esplanada de da Mata, 76
+Cidade Nova
+33259507 Santos de Minas / GO","Trecho Gustavo Borges, 809
+Santo André
+42610-617 Machado / MA",3000,3,sim
+Ravi Lucca Farias,66132292020,"Residencial de Barros
+Vila Aeroporto Jaraguá
+56846316 Lopes do Campo / AM",(041) 3198 1347,camargomarcelo@example.net,"Residencial de Barros
+Vila Aeroporto Jaraguá
+56846316 Lopes do Campo / AM","Largo de Leão
+Candelaria
+85624-065 Marques do Oeste / RS",2000,4,não
+Henry Pereira,49826780650,"Colônia Vinícius da Luz, 519
+Maria Helena
+35252-277 Azevedo das Pedras / RR",+55 (061) 7056 2933,anthony31@example.org,"Colônia Vinícius da Luz, 519
+Maria Helena
+35252-277 Azevedo das Pedras / RR","Travessa Rezende
+Conjunto Minas Caixa
+36314998 Vasconcelos do Amparo / MS",5000,5,sim
+Luísa Peixoto,29901314185,"Vale de Sampaio, 83
+São Luiz
+49558-738 Novaes / MA",(041) 2226 1248,maria-clarada-cunha@example.net,"Vale de Sampaio, 83
+São Luiz
+49558-738 Novaes / MA","Estrada Sales, 6
+Brasil Industrial
+56533640 Oliveira do Amparo / TO",4000,4,sim
+Isis Mendonça,39847622401,"Chácara Luiza da Paz
+Jaraguá
+45259-695 da Luz / RO",+55 71 5306 3824,psantos@example.com,"Chácara Luiza da Paz
+Jaraguá
+45259-695 da Luz / RO","Chácara Lorena Barbosa
+Cardoso
+26842843 Aparecida do Campo / PB",6000,1,não
+Sra. Giovanna Aparecida,48980415667,"Sítio Lívia da Costa, 5
+Vila Piratininga Venda Nova
+47320-314 Rios do Sul / BA",+55 (084) 4308 8529,costadom@example.com,"Sítio Lívia da Costa, 5
+Vila Piratininga Venda Nova
+47320-314 Rios do Sul / BA","Lago de Peixoto, 44
+Vila Nova Cachoeirinha 1ª Seção
+38751741 Rocha de Novais / AC",1000,2,não
+Nicolas Abreu,94638970461,"Jardim Silveira, 545
+Vitoria Da Conquista
+33645954 Lopes de Aragão / PR",+55 (084) 6794 6490,ucavalcante@example.org,"Jardim Silveira, 545
+Vitoria Da Conquista
+33645954 Lopes de Aragão / PR","Vale Fernanda da Costa, 9
+Dom Bosco
+26275239 Monteiro / SC",6000,2,não
+Yuri Marques,79679939856,"Vila da Costa, 7
+Caiçaras
+36149-644 Oliveira / PI",+55 (031) 0363 2096,danilo49@example.org,"Vila da Costa, 7
+Caiçaras
+36149-644 Oliveira / PI","Aeroporto de Ribeiro, 72
+Madri
+15196567 Carvalho / AM",3000,4,não
+Srta. Aurora Cunha,09943934232,"Passarela de Moraes, 12
+Centro
+67205869 Abreu / RO",+55 31 7931 1361,cardosobento@example.org,"Passarela de Moraes, 12
+Centro
+67205869 Abreu / RO","Trecho Albuquerque, 546
+Centro
+43145574 da Cunha Paulista / PB",7000,3,não
+Ana Julia Aparecida,57633785123,"Ladeira Pinto, 96
+Novo Glória
+62714-209 Borges / RN",+55 21 6052 0810,kfonseca@example.net,"Ladeira Pinto, 96
+Novo Glória
+62714-209 Borges / RN","Recanto Zoe da Mata, 9
+Sion
+27723452 Nunes / MS",1000,3,sim
+Srta. Caroline da Mota,07444264569,"Viela Campos, 5
+São Tomaz
+84365-276 Rezende das Pedras / SE",(011) 9750 8603,tmendonca@example.net,"Viela Campos, 5
+São Tomaz
+84365-276 Rezende das Pedras / SE","Distrito Maria Luísa Cassiano, 69
+Belvedere
+64137133 da Paz de Leão / MS",8000,4,sim
+Gustavo Henrique Macedo,30708176100,"Viaduto Gabriela Aparecida, 53
+Horto
+79787704 Moraes / RJ",+55 41 2711 9863,mirella72@example.net,"Viaduto Gabriela Aparecida, 53
+Horto
+79787704 Moraes / RJ","Aeroporto Ana Sophia Mendonça, 56
+Monte Azul
+59584278 Casa Grande de Camargo / MA",5000,4,não
+Gustavo Henrique Peixoto,97915931325,"Rua Almeida, 19
+Bom Jesus
+08722525 Porto / AM",+55 11 2113-3170,silveiravitoria@example.org,"Rua Almeida, 19
+Bom Jesus
+08722525 Porto / AM","Vereda Novais, 90
+Mariano De Abreu
+18008080 Nunes das Flores / PA",4000,3,sim
+Mathias Abreu,50196001560,"Aeroporto Davi Rocha, 21
+João Paulo Ii
+24792325 Oliveira da Praia / RN",(084) 8711 3999,maria-isisrocha@example.org,"Aeroporto Davi Rocha, 21
+João Paulo Ii
+24792325 Oliveira da Praia / RN","Rodovia João Gabriel Vasconcelos, 156
+Ernesto Nascimento
+88522606 Cassiano / CE",10000,4,não
+Sra. Sophia Mendes,86138285906,"Morro de Andrade, 30
+Luxemburgo
+74970325 Novaes / PB",(011) 3635 7602,vianamaria-luiza@example.com,"Morro de Andrade, 30
+Luxemburgo
+74970325 Novaes / PB","Trevo de Gomes, 10
+Dom Joaquim
+59530-129 Fernandes / GO",8000,1,sim
+Srta. Maria Fernanda Costela,62781480137,"Pátio Caldeira, 58
+Monsenhor Messias
+91239-084 Guerra do Sul / AP",+55 31 5657 8295,cavalcantemaria-luiza@example.com,"Pátio Caldeira, 58
+Monsenhor Messias
+91239-084 Guerra do Sul / AP","Passarela de Melo
+Pantanal
+60971-967 Castro de Nunes / RJ",4000,1,não
+Kaique Cirino,60657653093,"Viela Campos, 5
+Buritis
+89808-063 da Cruz / ES",+55 31 7262 2771,joao-felipecamara@example.com,"Viela Campos, 5
+Buritis
+89808-063 da Cruz / ES","Viaduto de Souza, 654
+União
+83112-694 Cavalcanti / MA",8000,2,não
+Sra. Maria Fernanda Martins,10687523199,"Campo Oliveira, 30
+Buraco Quente
+86610197 Novaes dos Dourados / RN",61 0588 4515,gcastro@example.net,"Campo Oliveira, 30
+Buraco Quente
+86610197 Novaes dos Dourados / RN","Ladeira de da Rosa, 551
+Santa Rita
+64881675 Cardoso de Caldeira / MG",7000,5,não
+Ayla Mendonça,12130355894,"Condomínio Valentim da Luz, 77
+Santa Maria
+22450-073 Souza da Serra / DF",+55 61 8448-2604,sduarte@example.net,"Condomínio Valentim da Luz, 77
+Santa Maria
+22450-073 Souza da Serra / DF","Rua Almeida
+Conjunto Providencia
+94799-415 Pacheco / MS",2000,5,sim
+Lucas Jesus,59885333617,"Residencial de Correia, 65
+São Geraldo
+26546742 das Neves Alegre / MA",71 9805 9626,pereiraleticia@example.com,"Residencial de Correia, 65
+São Geraldo
+26546742 das Neves Alegre / MA","Fazenda de Dias, 65
+Savassi
+67077-823 Pacheco / MS",5000,3,sim
+Henrique da Rocha,07842313970,"Parque de Rocha, 20
+Vila Nova Gameleira 1ª Seção
+78988009 Melo de Minas / SC",(071) 1126 5460,saliz@example.org,"Parque de Rocha, 20
+Vila Nova Gameleira 1ª Seção
+78988009 Melo de Minas / SC","Lago Maria Liz Câmara
+Xodo-Marize
+28792101 Sousa de Goiás / TO",2000,2,não
+Sr. Ravi Aparecida,58826996490,"Travessa Renan Vargas, 3
+São Bernardo
+09671-735 Andrade da Serra / SP",84 4809-3119,giovannamontenegro@example.net,"Travessa Renan Vargas, 3
+São Bernardo
+09671-735 Andrade da Serra / SP","Vila João Miguel da Paz, 439
+Horto
+74958-163 da Costa da Serra / SP",3000,5,sim
+Luiz Felipe Sales,36983407982,"Praça Freitas, 730
+São Jorge 2ª Seção
+72336-025 Duarte de Goiás / PE",21 0046-5639,asafecaldeira@example.net,"Praça Freitas, 730
+São Jorge 2ª Seção
+72336-025 Duarte de Goiás / PE","Parque de Pacheco, 61
+Conjunto Jatoba
+12418-203 da Costa Alegre / PR",5000,2,não
+Amanda Siqueira,99238699033,"Praia de Abreu, 3
+Cidade Nova
+00402-670 Viana de Goiás / RR",+55 (071) 1410 8056,ipacheco@example.org,"Praia de Abreu, 3
+Cidade Nova
+00402-670 Viana de Goiás / RR","Condomínio Moura, 35
+Corumbiara
+61834770 Rios do Campo / PE",8000,3,não
+José Miguel Sampaio,15186209907,"Setor de Silva, 29
+Das Industrias I
+67290-144 Martins / PB",(021) 8354-0852,murilo81@example.net,"Setor de Silva, 29
+Das Industrias I
+67290-144 Martins / PB","Rodovia Carlos Eduardo Gomes, 958
+Dom Silverio
+07560961 Aragão / PE",9000,2,não
+Heloísa Nunes,26416380882,"Pátio Beatriz Azevedo, 86
+Jaraguá
+09394-497 Nogueira / AC",+55 41 1163-7124,guerraana-sophia@example.net,"Pátio Beatriz Azevedo, 86
+Jaraguá
+09394-497 Nogueira / AC","Colônia de Carvalho, 44
+Teixeira Dias
+60038-687 Alves / CE",7000,1,não
+Emanuella Viana,02034964263,"Viela Teixeira
+Paraíso
+97608-929 Leão Paulista / PI",+55 (011) 8891 7656,yaraujo@example.org,"Viela Teixeira
+Paraíso
+97608-929 Leão Paulista / PI","Vale Machado, 6
+Cidade Nova
+68103650 Garcia / RS",1000,5,sim
+Luiz Fernando Aragão,16736568626,"Feira Gustavo Henrique Aragão, 82
+Santo André
+59914-299 Azevedo / RS",(031) 5449-4242,emilly09@example.net,"Feira Gustavo Henrique Aragão, 82
+Santo André
+59914-299 Azevedo / RS","Trecho Sá, 68
+Tirol
+69654186 Almeida Alegre / RO",5000,1,sim
+Francisco Vargas,83436326136,"Trecho Moura, 85
+Conjunto Bonsucesso
+15174-901 Fogaça / RR",+55 (081) 7081 9257,marianecosta@example.net,"Trecho Moura, 85
+Conjunto Bonsucesso
+15174-901 Fogaça / RR","Avenida Apollo Pacheco, 12
+União
+08907-207 Andrade / RJ",9000,3,não
+Aurora Farias,30877200385,"Alameda Zoe Sampaio, 16
+Nossa Senhora Do Rosário
+52517-129 Cassiano do Oeste / PB",+55 84 0073 8922,psouza@example.com,"Alameda Zoe Sampaio, 16
+Nossa Senhora Do Rosário
+52517-129 Cassiano do Oeste / PB","Esplanada Cecília Mendonça, 43
+Vila Dos Anjos
+36592-849 Guerra / SC",7000,3,sim
+Leonardo Melo,73298491032,"Morro Esther Ribeiro, 39
+Camponesa 1ª Seção
+87577281 Ferreira do Campo / MT",0800 475 3997,enzopastor@example.org,"Morro Esther Ribeiro, 39
+Camponesa 1ª Seção
+87577281 Ferreira do Campo / MT","Área de Vieira, 83
+Jardim Guanabara
+10492-890 Andrade da Serra / ES",5000,5,sim
+Vitor Hugo Silveira,52710041479,"Ladeira Ana Lívia Siqueira, 560
+União
+38726929 Rodrigues do Oeste / RR",0500-114-1255,sabrina94@example.com,"Ladeira Ana Lívia Siqueira, 560
+União
+38726929 Rodrigues do Oeste / RR","Pátio João Pedro Nascimento, 81
+Boa Vista
+79540860 Fonseca / MT",2000,4,não
+Clara Teixeira,41965114064,"Trevo Borges, 22
+Juliana
+56325158 Albuquerque de Guerra / PR",+55 61 3114 8564,ujesus@example.com,"Trevo Borges, 22
+Juliana
+56325158 Albuquerque de Guerra / PR","Feira Bento Souza, 6
+São Geraldo
+05025-360 Pires do Campo / RN",7000,2,não
+Ana Liz Nunes,69785578460,"Viela Dias, 9
+Vila São Rafael
+86001-052 Nunes / PB",(051) 7399 5811,caroline26@example.net,"Viela Dias, 9
+Vila São Rafael
+86001-052 Nunes / PB","Vereda Caldeira, 69
+Glória
+50215-031 Siqueira Paulista / BA",1000,2,sim
+Juliana Caldeira,16637867391,"Lagoa Luiz Fernando Lopes
+Vila Canto Do Sabiá
+04145-674 Aragão do Amparo / AP",+55 (041) 4521 0074,cdas-neves@example.com,"Lagoa Luiz Fernando Lopes
+Vila Canto Do Sabiá
+04145-674 Aragão do Amparo / AP","Estrada Bruna Vieira, 25
+Alto Vera Cruz
+39410165 Pires / PA",10000,2,não
+Zoe Cavalcante,59588403558,"Viaduto Heitor Freitas, 66
+São Francisco
+10496-218 Gomes / MT",(071) 2257-3928,peixotoluiz-felipe@example.com,"Viaduto Heitor Freitas, 66
+São Francisco
+10496-218 Gomes / MT","Fazenda Ana Liz Pereira, 2
+Vista Do Sol
+38517863 Silva / DF",10000,1,não
+João Fernandes,90508935891,"Setor de Leão, 3
+Copacabana
+16639-775 Câmara / AC",+55 71 8270-0052,brunada-mata@example.org,"Setor de Leão, 3
+Copacabana
+16639-775 Câmara / AC","Quadra Moreira, 27
+Vila Mangueiras
+78661-481 Teixeira / MT",3000,2,não
+Sr. Pedro Dias,00472742206,"Setor de Monteiro, 54
+Ouro Minas
+43718979 da Mata de Casa Grande / MT",41 7566-3021,marquesfernanda@example.org,"Setor de Monteiro, 54
+Ouro Minas
+43718979 da Mata de Casa Grande / MT","Morro Nicolas Araújo, 16
+Vila Paris
+21918-558 Castro da Mata / ES",4000,3,não
+Dr. Valentim Porto,55871301770,"Estrada Pedro Macedo
+Nossa Senhora Da Conceição
+57762-063 Fonseca / AM",11 1938 4251,cassianostella@example.com,"Estrada Pedro Macedo
+Nossa Senhora Da Conceição
+57762-063 Fonseca / AM","Vila de da Rocha
+Santa Rita
+16827-758 Araújo de Souza / RJ",9000,5,não
+Alana da Cunha,76438901532,"Residencial de Borges, 13
+Manacas
+40227315 da Rocha das Pedras / BA",(011) 1730-6274,nathanda-mata@example.org,"Residencial de Borges, 13
+Manacas
+40227315 da Rocha das Pedras / BA","Conjunto de Souza, 75
+Vila São João Batista
+15287010 Costa Paulista / SC",2000,2,sim
+Erick Costela,74087064967,"Colônia Ana Lívia Mendonça, 177
+Novo Ouro Preto
+46815-116 Ribeiro do Sul / BA",+55 (051) 9669 7224,ucardoso@example.com,"Colônia Ana Lívia Mendonça, 177
+Novo Ouro Preto
+46815-116 Ribeiro do Sul / BA","Ladeira Abreu, 636
+Juliana
+86555862 Cunha de Sá / PA",6000,2,sim
+Luan da Conceição,23899210943,"Alameda Carvalho
+Bacurau
+44003-138 Peixoto da Prata / AL",0500-176-1942,freitasluna@example.com,"Alameda Carvalho
+Bacurau
+44003-138 Peixoto da Prata / AL","Residencial de Aragão, 32
+Vila Copasa
+12472212 da Mata do Oeste / PA",5000,3,não
+Enzo Gabriel Camargo,72820871562,"Campo Benicio Gonçalves
+São Gonçalo
+42348-494 Carvalho / MA",+55 84 9006 6931,costelaasafe@example.org,"Campo Benicio Gonçalves
+São Gonçalo
+42348-494 Carvalho / MA","Avenida de Moura, 717
+Vila Antena
+80775949 Silveira do Oeste / MA",6000,1,sim
+Emanuelly Aragão,98784872020,"Viaduto Dom Montenegro, 596
+Vila Copacabana
+40712050 Leão / PI",0900 198 2799,nataliamontenegro@example.org,"Viaduto Dom Montenegro, 596
+Vila Copacabana
+40712050 Leão / PI","Passarela Guerra, 651
+São Sebastião
+20877455 Correia / ES",2000,4,sim
+Valentim Fonseca,41252227899,"Pátio da Rosa, 348
+Piratininga
+82277-020 Carvalho do Norte / SE",(031) 3285-3072,lorenapereira@example.org,"Pátio da Rosa, 348
+Piratininga
+82277-020 Carvalho do Norte / SE","Ladeira Cunha, 554
+Camargos
+64593-245 Azevedo / AL",8000,3,não
+Sr. Samuel Macedo,77315190156,"Viaduto Teixeira
+Cidade Jardim
+40751445 Sá Paulista / MS",+55 84 2905 5260,vieiracatarina@example.net,"Viaduto Teixeira
+Cidade Jardim
+40751445 Sá Paulista / MS","Viaduto José Pedro Moura
+Vila Suzana Segunda Seção
+17010355 Silveira / RR",4000,2,não
+Erick Gonçalves,10923136563,"Jardim de Mendonça
+Marieta 3ª Seção
+24777-682 Cirino / SC",(071) 4748-7774,ddas-neves@example.net,"Jardim de Mendonça
+Marieta 3ª Seção
+24777-682 Cirino / SC","Distrito Pedro Lucas Casa Grande
+Barreiro
+64786-070 Lopes / AC",5000,5,sim
+Isaque Gonçalves,05465451490,"Colônia Brenda Sales, 46
+Vila Atila De Paiva
+72277041 Borges / RO",+55 11 3312-6947,pedro-lucasviana@example.net,"Colônia Brenda Sales, 46
+Vila Atila De Paiva
+72277041 Borges / RO","Alameda Ravy Porto, 15
+Santa Sofia
+87296503 Pires da Prata / PE",2000,2,não
+Dr. Benício Marques,92255773208,"Residencial Albuquerque, 5
+Santa Helena
+65245971 Campos / MS",(011) 0137 1461,camargoyan@example.org,"Residencial Albuquerque, 5
+Santa Helena
+65245971 Campos / MS","Chácara de Melo
+Nova Cachoeirinha
+40518580 Martins do Amparo / SE",8000,4,não
+Alexia Pimenta,09339373509,"Campo Cunha, 20
+Jardim Montanhês
+64480147 Lopes de Minas / SE",+55 21 1750-5917,zaraujo@example.org,"Campo Cunha, 20
+Jardim Montanhês
+64480147 Lopes de Minas / SE","Alameda de Mendes, 88
+Vila Puc
+83336-994 Lopes de Goiás / SE",4000,3,não
+Dr. Marcos Vinicius Aparecida,23654027714,"Recanto Alana Nascimento, 99
+Conjunto Lagoa
+90067533 Azevedo de Goiás / MT",(011) 1409-1518,juliajesus@example.org,"Recanto Alana Nascimento, 99
+Conjunto Lagoa
+90067533 Azevedo de Goiás / MT","Via de Pacheco, 8
+Vila Paris
+12038-985 Costa / PR",1000,3,sim
+Cauê Vasconcelos,46494483872,"Avenida Maria Laura da Luz, 67
+Solimoes
+15407-175 Dias / RR",(011) 3457 6994,afreitas@example.net,"Avenida Maria Laura da Luz, 67
+Solimoes
+15407-175 Dias / RR","Rodovia Anthony Gabriel da Costa, 30
+Concórdia
+44855390 Pacheco de Goiás / BA",3000,4,não
+Pedro Henrique Abreu,15456674464,"Jardim Maria Alice da Rocha, 74
+Morro Dos Macacos
+84595-012 Abreu / PE",(061) 3632 6276,pedro-henrique96@example.org,"Jardim Maria Alice da Rocha, 74
+Morro Dos Macacos
+84595-012 Abreu / PE","Favela Allana Moreira, 21
+Vila De Sá
+76995-507 Gonçalves Grande / SE",7000,1,não
+Dr. Théo Camargo,03870318983,"Pátio de Sampaio, 60
+Vila São Dimas
+60612446 Almeida / DF",+55 (071) 2021 0596,ana-vitoria42@example.com,"Pátio de Sampaio, 60
+Vila São Dimas
+60612446 Almeida / DF","Praça Moura
+Vila Piratininga Venda Nova
+88755-145 Cunha de Souza / TO",6000,5,sim
+Luiz Miguel Sousa,47217113600,"Alameda Rocha, 212
+Santa Monica
+50859248 Sousa de Fonseca / CE",0900-996-2021,da-rosalucas@example.com,"Alameda Rocha, 212
+Santa Monica
+50859248 Sousa de Fonseca / CE","Setor Cassiano, 34
+Paulo Vi
+00312-686 Pinto da Prata / PE",6000,1,não
+Lunna Campos,34028312954,"Chácara Bruna Nascimento, 20
+Jardim São José
+25743-299 Marques de da Rocha / CE",(071) 8226 6417,cecilia55@example.org,"Chácara Bruna Nascimento, 20
+Jardim São José
+25743-299 Marques de da Rocha / CE","Vereda Ágatha Teixeira, 10
+Vila Atila De Paiva
+74248501 da Mata dos Dourados / SE",4000,3,não
+Olivia Pinto,66942898041,"Praia de Macedo, 6
+Vila Copacabana
+14683-082 Costa de Machado / MT",31 4474-4447,luiz-fernando13@example.net,"Praia de Macedo, 6
+Vila Copacabana
+14683-082 Costa de Machado / MT","Via Caio Lopes, 114
+Marçola
+82312-071 Ribeiro / SP",2000,1,sim
+Liam Martins,81668372691,"Avenida Caleb Vasconcelos, 12
+Palmares
+43504-036 Garcia / AL",41 9578 8434,fernanda31@example.com,"Avenida Caleb Vasconcelos, 12
+Palmares
+43504-036 Garcia / AL","Conjunto de Correia, 853
+Vila Fumec
+03350608 Alves de Cavalcante / BA",7000,4,sim
+João Felipe Fonseca,20441000706,"Trevo Valentim Novais
+Vila Pinho
+56168282 Gonçalves / DF",+55 (081) 1687 9094,marcelo62@example.com,"Trevo Valentim Novais
+Vila Pinho
+56168282 Gonçalves / DF","Residencial de Marques, 48
+Milionario
+79319883 Fogaça / SE",2000,1,sim
+Srta. Vitória Borges,65781510280,"Alameda Barbosa, 23
+Jaqueline
+01328-279 Dias / BA",71 1945-5041,joao-guilhermegoncalves@example.net,"Alameda Barbosa, 23
+Jaqueline
+01328-279 Dias / BA","Praça Luigi da Mata, 3
+Mariano De Abreu
+60939222 Alves / RO",5000,1,não
+Dr. Yuri Câmara,33412940070,"Colônia Barbosa, 40
+Conjunto Paulo Vi
+74204858 Costa da Prata / RS",(011) 4871 5561,cassianojuliana@example.net,"Colônia Barbosa, 40
+Conjunto Paulo Vi
+74204858 Costa da Prata / RS","Conjunto Murilo Cardoso, 60
+Corumbiara
+94497-641 Brito / PI",2000,3,não
+Dra. Luiza Silva,92757334300,"Feira Barros, 4
+Cinquentenário
+77845840 da Luz Verde / AL",61 7349-5379,alananovaes@example.org,"Feira Barros, 4
+Cinquentenário
+77845840 da Luz Verde / AL","Viela Valentina Rocha, 110
+Nova Cintra
+68231-262 Ribeiro / RN",3000,4,não
+Ana Clara Fogaça,14317271564,"Vale da Cunha, 82
+Buraco Quente
+83158042 Nascimento / RJ",81 5954-2417,da-cunhaallana@example.org,"Vale da Cunha, 82
+Buraco Quente
+83158042 Nascimento / RJ","Feira de Novaes
+João Alfredo
+92388608 da Paz da Serra / AL",7000,1,sim
+Diogo Carvalho,50303263088,"Travessa Marcos Vinicius Caldeira, 8
+Santa Sofia
+44968700 Marques / PI",+55 11 7764-4962,ana-livia59@example.net,"Travessa Marcos Vinicius Caldeira, 8
+Santa Sofia
+44968700 Marques / PI","Via Correia, 87
+Boa União 2ª Seção
+90312-668 Silva / RS",5000,2,não
+Brayan Borges,27840963274,"Morro de Barbosa, 712
+Parque São José
+15238-539 Caldeira / AC",(021) 8514 7666,rbarbosa@example.net,"Morro de Barbosa, 712
+Parque São José
+15238-539 Caldeira / AC","Passarela de da Costa, 49
+Andiroba
+58984-035 Campos / PA",7000,5,não
+Vitor Gabriel Vargas,91719392961,"Lago Correia, 27
+Vila São Gabriel Jacui
+34646-695 Novais / PE",+55 (031) 4611-3717,emillyda-mota@example.com,"Lago Correia, 27
+Vila São Gabriel Jacui
+34646-695 Novais / PE","Esplanada de Rodrigues, 42
+Buritis
+21620673 da Mota dos Dourados / ES",10000,5,não
+Dra. Maria Júlia Caldeira,47860872894,"Ladeira de Rodrigues, 39
+Conjunto Minas Caixa
+63618782 da Mota de Rocha / AM",(081) 6135 2359,lara05@example.com,"Ladeira de Rodrigues, 39
+Conjunto Minas Caixa
+63618782 da Mota de Rocha / AM","Praça de Moraes, 45
+São Paulo
+48493527 Peixoto / AM",2000,2,sim
+Davi Lucca Câmara,62035105213,"Trecho Fernanda Pacheco, 622
+Aguas Claras
+78489611 Pires / AC",+55 21 9940-0592,cnascimento@example.com,"Trecho Fernanda Pacheco, 622
+Aguas Claras
+78489611 Pires / AC","Estrada Silveira, 6
+Das Industrias I
+86133-738 Cirino da Praia / RJ",10000,4,sim
+Yasmin Garcia,56411623375,"Vila Sampaio, 24
+Marieta 1ª Seção
+36212-325 Jesus do Norte / AM",+55 (061) 8241 2170,valmeida@example.net,"Vila Sampaio, 24
+Marieta 1ª Seção
+36212-325 Jesus do Norte / AM","Esplanada Souza, 63
+Vila Pilar
+75831-893 Farias / AP",10000,3,sim
+Srta. Mirella Alves,78390635008,"Via de Porto, 132
+Nova Cintra
+57786-901 Freitas / RS",+55 (011) 9821 2254,nicolas68@example.net,"Via de Porto, 132
+Nova Cintra
+57786-901 Freitas / RS","Alameda Clarice Correia, 83
+Vista Alegre
+35261-898 Cirino de Monteiro / PE",5000,4,não
+Stephany da Rosa,78147553791,"Campo Maria Helena Rodrigues, 59
+Vila Real 2ª Seção
+27257-817 Santos de Abreu / MS",(081) 8127-5790,borgesantonella@example.net,"Campo Maria Helena Rodrigues, 59
+Vila Real 2ª Seção
+27257-817 Santos de Abreu / MS","Feira de Jesus, 81
+Vila Madre Gertrudes 4ª Seção
+57123850 Ribeiro / MS",10000,2,sim
+Arthur Miguel Brito,40462451407,"Estrada de Barros
+Engenho Nogueira
+76675256 Cirino do Campo / AP",+55 31 2712 3821,gmarques@example.org,"Estrada de Barros
+Engenho Nogueira
+76675256 Cirino do Campo / AP","Viaduto Garcia, 472
+Petropolis
+24227480 Borges / PA",2000,3,não
+Nathan Farias,31812638693,"Vereda Fernanda Albuquerque, 5
+Vila Da Paz
+66602686 da Rocha / AM",0300-497-6232,pastormaria-luiza@example.org,"Vereda Fernanda Albuquerque, 5
+Vila Da Paz
+66602686 da Rocha / AM","Vila Oliveira, 325
+Ipe
+34088-094 Vasconcelos de Sampaio / MA",1000,2,não
+Ana Clara Siqueira,82675724142,"Feira Stephany Pastor, 6
+Marajó
+46531463 da Conceição do Campo / RO",+55 11 5432 0595,prezende@example.net,"Feira Stephany Pastor, 6
+Marajó
+46531463 da Conceição do Campo / RO","Vereda Vasconcelos, 5
+Vila União
+41947-483 Mendonça / DF",1000,4,sim
+Alícia Guerra,56289130909,"Condomínio Moraes, 16
+Conjunto Jardim Filadélfia
+65723344 Barros / CE",+55 (051) 0670 1808,rsampaio@example.net,"Condomínio Moraes, 16
+Conjunto Jardim Filadélfia
+65723344 Barros / CE","Ladeira Manuela Carvalho, 540
+Mantiqueira
+75027376 Abreu / SC",9000,1,sim
+Ester Ribeiro,80235529370,"Morro de Cavalcanti, 73
+Novo São Lucas
+11175-244 da Costa / PA",51 1383 1616,fdias@example.com,"Morro de Cavalcanti, 73
+Novo São Lucas
+11175-244 da Costa / PA","Conjunto de Montenegro, 4
+Cabana Do Pai Tomás
+86184-391 Ribeiro dos Dourados / AP",9000,5,não
+Isabella Aparecida,12923764909,"Sítio Aragão, 30
+Ápia
+01926635 Siqueira da Mata / AL",+55 (011) 3207-6544,brenopastor@example.org,"Sítio Aragão, 30
+Ápia
+01926635 Siqueira da Mata / AL","Travessa Samuel Andrade, 36
+Renascença
+81102-554 Ferreira / PB",2000,5,sim
+Ravi Lucca Camargo,41878968646,"Praia de Cavalcanti, 7
+Betânia
+04407134 Caldeira / RR",61 5861 0293,oda-luz@example.net,"Praia de Cavalcanti, 7
+Betânia
+04407134 Caldeira / RR","Jardim Luna Moraes, 9
+Vila Madre Gertrudes 2ª Seção
+63999425 Nascimento / TO",5000,5,sim
+Alexia Costela,82848329336,"Sítio de Guerra
+Marmiteiros
+51402-441 Porto / DF",0300 626 5155,qbarros@example.com,"Sítio de Guerra
+Marmiteiros
+51402-441 Porto / DF","Chácara Davi Miguel Lima, 64
+Vila Vista Alegre
+32072-930 Aparecida / PB",5000,3,não
+Pedro Lucas Cirino,04107485791,"Vereda Sampaio, 596
+Vila Nova Cachoeirinha 1ª Seção
+04653-444 Cavalcanti Grande / SP",(084) 9066 2048,arthur74@example.net,"Vereda Sampaio, 596
+Vila Nova Cachoeirinha 1ª Seção
+04653-444 Cavalcanti Grande / SP","Via Luiz Fernando Câmara, 74
+Vila Havaí
+26517009 Costa dos Dourados / RR",9000,2,não
+Pedro Miguel Cardoso,49109657265,"Setor de Ramos, 6
+Madri
+82410509 Teixeira do Norte / SP",+55 51 5687 1055,leticiasilva@example.org,"Setor de Ramos, 6
+Madri
+82410509 Teixeira do Norte / SP","Vila de Pereira, 12
+Santa Efigênia
+22870-617 Siqueira da Mata / AC",7000,2,não
+Srta. Ana Clara Aragão,88183032874,"Colônia Pedro Lucas Teixeira, 52
+Cdi Jatoba
+64030-598 Aragão de Goiás / TO",+55 31 2098-6088,heitor48@example.com,"Colônia Pedro Lucas Teixeira, 52
+Cdi Jatoba
+64030-598 Aragão de Goiás / TO","Residencial de Rezende, 301
+Nova Suíça
+50856-105 Viana / PR",3000,2,sim
+Dra. Anna Liz Rios,78914763730,"Avenida Mendonça, 33
+Solar Do Barreiro
+27416-685 Moura / PA",0800 473 2039,maria-helena69@example.net,"Avenida Mendonça, 33
+Solar Do Barreiro
+27416-685 Moura / PA","Alameda Calebe Leão, 787
+Jardim Felicidade
+22312149 Castro / SE",6000,4,sim
+Carolina da Paz,95611611175,"Trecho Emanuella Barros, 342
+Vila Santa Monica 1ª Seção
+83373829 Oliveira / RJ",+55 61 2369-7687,da-luzana-livia@example.net,"Trecho Emanuella Barros, 342
+Vila Santa Monica 1ª Seção
+83373829 Oliveira / RJ","Praça Vitor Aparecida, 82
+Vila Jardim Leblon
+00607358 Viana / RS",4000,4,sim
+Heitor Pereira,62202787630,"Recanto de da Cruz, 42
+Ambrosina
+01143109 Mendonça / RR",81 4201 1067,ribeiroanthony-gabriel@example.com,"Recanto de da Cruz, 42
+Ambrosina
+01143109 Mendonça / RR","Ladeira de Andrade, 516
+Vila Coqueiral
+64975-931 da Cruz / MA",9000,3,sim
+Maria Júlia Marques,81137019232,"Esplanada de Almeida, 298
+Lourdes
+80423-082 Costela do Amparo / AM",+55 21 3581-8686,gustavoda-luz@example.org,"Esplanada de Almeida, 298
+Lourdes
+80423-082 Costela do Amparo / AM","Núcleo Peixoto, 6
+Buraco Quente
+06736546 Teixeira / AC",3000,2,sim
+Liam Duarte,53477747896,"Vereda Guerra, 18
+Minas Brasil
+47513-820 Jesus do Sul / GO",+55 31 5483 0971,fmendonca@example.com,"Vereda Guerra, 18
+Minas Brasil
+47513-820 Jesus do Sul / GO","Loteamento Samuel Cunha, 912
+Copacabana
+92352153 Mendes / AM",8000,3,não
+Igor Marques,63104576403,"Rua de Gomes, 34
+Jardim Alvorada
+41339-661 Pires / RS",41 9866 0210,gabriel08@example.com,"Rua de Gomes, 34
+Jardim Alvorada
+41339-661 Pires / RS","Praça de Casa Grande, 88
+São Marcos
+82511-898 Cassiano de Castro / PE",10000,1,sim
+Théo Nascimento,19454513000,"Avenida de Cavalcanti, 23
+Varzea Da Palma
+50679-498 Machado da Serra / MA",+55 84 0584 5564,emanuel91@example.net,"Avenida de Cavalcanti, 23
+Varzea Da Palma
+50679-498 Machado da Serra / MA","Estação de Montenegro, 6
+Gutierrez
+85784-662 Castro / PR",10000,4,sim
+Gustavo Henrique Campos,48460057630,"Esplanada Vicente Campos
+Jardim Atlântico
+89817322 Gonçalves do Norte / MA",61 2705-8861,noahfarias@example.org,"Esplanada Vicente Campos
+Jardim Atlântico
+89817322 Gonçalves do Norte / MA","Largo de Rodrigues, 5
+Anchieta
+27736-426 da Mota de Martins / RS",9000,5,não
+Rodrigo Mendonça,13672974600,"Aeroporto de Rocha, 88
+Esplanada
+43211-142 Nunes / MG",11 3306-5364,qvargas@example.net,"Aeroporto de Rocha, 88
+Esplanada
+43211-142 Nunes / MG","Estação das Neves, 34
+Betânia
+64223-583 Gonçalves / BA",9000,3,sim
+Juliana Lima,69113181142,"Favela Castro, 508
+Vila Califórnia
+28824-442 da Mata / PI",84 1214 7364,mariane30@example.org,"Favela Castro, 508
+Vila Califórnia
+28824-442 da Mata / PI","Esplanada Olivia Jesus, 87
+Vista Do Sol
+33022162 Sousa / MT",4000,5,sim
+Henry Gabriel Monteiro,28347560900,"Residencial Pastor, 2
+Belmonte
+93788-648 Moura / RS",+55 (021) 2469 5383,ferreiralivia@example.com,"Residencial Pastor, 2
+Belmonte
+93788-648 Moura / RS","Chácara da Costa, 16
+Vila Nova Cachoeirinha 1ª Seção
+71194025 Souza / GO",10000,4,não
+Cauê Sousa,73641012685,"Esplanada Noah Teixeira, 994
+Vila Madre Gertrudes 4ª Seção
+71505-598 da Rosa / AC",+55 84 7750 9761,camposmaite@example.org,"Esplanada Noah Teixeira, 994
+Vila Madre Gertrudes 4ª Seção
+71505-598 da Rosa / AC","Morro Barbosa, 14
+São Bernardo
+81238-523 Ferreira de das Neves / RJ",3000,5,não
+Sr. Ian Mendes,23731080540,"Trevo Fogaça, 52
+Goiania
+74683-812 Nogueira / RS",+55 21 5217 2437,cirinobeatriz@example.org,"Trevo Fogaça, 52
+Goiania
+74683-812 Nogueira / RS","Travessa de Cassiano, 76
+Sport Club
+57510439 Silva de Gomes / PI",10000,5,não
+Lorenzo Pires,83294367995,"Sítio de Cavalcanti
+Vila Nova Cachoeirinha 3ª Seção
+03582-634 Santos da Serra / RS",(011) 9543 2822,igordas-neves@example.org,"Sítio de Cavalcanti
+Vila Nova Cachoeirinha 3ª Seção
+03582-634 Santos da Serra / RS","Núcleo Pires, 38
+São Pedro
+96051657 Silva de Gomes / TO",6000,3,sim
+Emanuelly Vasconcelos,90183967379,"Avenida Sampaio, 709
+Barro Preto
+07322-434 Duarte / PA",+55 (084) 3033 8692,claricelopes@example.com,"Avenida Sampaio, 709
+Barro Preto
+07322-434 Duarte / PA","Fazenda de Andrade, 53
+Unidas
+17300268 da Rosa / SC",10000,2,não
+Davi Barros,68374190218,"Rodovia Yago Nascimento, 34
+Canadá
+33000112 Macedo da Prata / TO",(021) 9698-2962,maria-luizacasa-grande@example.org,"Rodovia Yago Nascimento, 34
+Canadá
+33000112 Macedo da Prata / TO","Aeroporto de Leão, 7
+Tiradentes
+14330948 Borges / SC",8000,1,sim
+Vitor Hugo Moura,90006914601,"Estação André Ramos, 62
+Mangabeiras
+39217-822 Freitas da Mata / PA",+55 51 1759 3604,duartemariana@example.net,"Estação André Ramos, 62
+Mangabeiras
+39217-822 Freitas da Mata / PA","Avenida de Monteiro, 4
+Conjunto Lagoa
+62719637 Nunes / CE",8000,1,sim
+Dra. Bárbara Vieira,37781927874,"Vereda Maria Laura da Cruz, 578
+Bernadete
+33699152 Ferreira / AM",(081) 8669 6495,hellena38@example.org,"Vereda Maria Laura da Cruz, 578
+Bernadete
+33699152 Ferreira / AM","Alameda Pinto, 32
+São João
+34697-709 Campos de Goiás / RJ",5000,3,sim
+Dr. Joaquim Nascimento,01115263614,"Colônia Ramos, 60
+Nova Esperança
+41862-805 Cardoso / MT",(021) 6481 0492,maria-ceciliacarvalho@example.org,"Colônia Ramos, 60
+Nova Esperança
+41862-805 Cardoso / MT","Via Melissa Rocha, 47
+Pirineus
+71990-864 Nascimento do Sul / RR",8000,4,sim
+Raul Alves,98881133489,"Parque Rezende, 8
+Vila Novo São Lucas
+30486-045 Lima de Novaes / TO",+55 11 4851-0524,fernandeshenrique@example.net,"Parque Rezende, 8
+Vila Novo São Lucas
+30486-045 Lima de Novaes / TO","Avenida Théo Montenegro, 4
+Das Industrias I
+47387-737 Albuquerque / PA",5000,2,não
+Luiz Otávio Porto,33227038353,"Trevo Leandro Fogaça, 50
+Mangueiras
+26914584 Teixeira / AM",+55 81 5202-9736,qrios@example.org,"Trevo Leandro Fogaça, 50
+Mangueiras
+26914584 Teixeira / AM","Conjunto João Vitor Novaes, 10
+Santa Terezinha
+69631746 da Rosa da Praia / TO",8000,3,não
+Lunna Alves,40722716758,"Chácara Lívia da Mata, 807
+Vila Inestan
+48618-908 Rios do Sul / BA",(051) 5906 4874,rafaelalbuquerque@example.com,"Chácara Lívia da Mata, 807
+Vila Inestan
+48618-908 Rios do Sul / BA","Viaduto Esther Câmara
+Conjunto Califórnia I
+29458971 Cavalcante / RR",4000,2,sim
+Felipe Castro,30533988858,"Chácara de Carvalho, 405
+Comiteco
+44243297 Mendonça / PR",(081) 6864 0964,cauafarias@example.com,"Chácara de Carvalho, 405
+Comiteco
+44243297 Mendonça / PR","Setor de Mendonça, 30
+Vila Cloris
+68552009 Porto Paulista / SE",6000,1,sim
+Emanuella Abreu,34380131932,"Travessa de Santos, 56
+Vila São Geraldo
+22515066 Caldeira / AC",(071) 4457 1526,caldeirasophia@example.net,"Travessa de Santos, 56
+Vila São Geraldo
+22515066 Caldeira / AC","Distrito Marcela Alves, 96
+Distrito Industrial Do Jatoba
+44450195 Martins do Amparo / AM",9000,1,não
+Antony Pimenta,02834421584,"Feira Giovanna Siqueira, 658
+Maravilha
+38266234 Novaes / PB",51 9609 4458,marianada-costa@example.com,"Feira Giovanna Siqueira, 658
+Maravilha
+38266234 Novaes / PB","Travessa Samuel Câmara, 23
+Camargos
+42441518 da Costa Grande / SE",4000,2,não
+Erick Pacheco,60476161940,"Parque Maria Ribeiro, 690
+Carlos Prates
+25039-134 Sousa / BA",71 5451 6017,falbuquerque@example.org,"Parque Maria Ribeiro, 690
+Carlos Prates
+25039-134 Sousa / BA","Esplanada Barbosa, 85
+Saudade
+64803-615 da Rocha do Amparo / DF",9000,3,sim
+Nicole Sales,82033303391,"Parque Yasmin da Cunha, 74
+Vila Real 2ª Seção
+30983884 Correia / PA",+55 41 7134 5829,andradevalentina@example.org,"Parque Yasmin da Cunha, 74
+Vila Real 2ª Seção
+30983884 Correia / PA","Passarela Giovanna Novais, 82
+João Alfredo
+74996407 Vieira de Caldeira / AP",7000,3,não
+Dante Abreu,51671410956,"Área Abreu
+São Paulo
+03109-704 Moreira da Mata / PA",41 1046 5235,calebfonseca@example.org,"Área Abreu
+São Paulo
+03109-704 Moreira da Mata / PA","Rua Bárbara Duarte, 309
+Vila Puc
+94428-647 Fonseca do Campo / TO",4000,3,não
+Heloisa Silveira,94929511343,"Jardim Rezende, 87
+São Francisco Das Chagas
+27150298 Borges / PR",(084) 7482-5476,levi08@example.com,"Jardim Rezende, 87
+São Francisco Das Chagas
+27150298 Borges / PR","Vereda de Borges, 469
+Vila Pilar
+31927-084 Castro da Serra / PI",10000,1,não
+Davi Miguel Montenegro,39557305228,"Vereda de Pires
+Conjunto Lagoa
+66678-829 Oliveira / PR",61 5566-2205,alexandre15@example.com,"Vereda de Pires
+Conjunto Lagoa
+66678-829 Oliveira / PR","Rodovia de Moraes, 26
+Canadá
+37506319 Aragão / RO",10000,3,sim
+Isabelly Ribeiro,15891600109,"Estação Arthur Miguel Pimenta, 68
+Nova Pampulha
+87543377 Azevedo Grande / RN",(081) 1345 5488,britomariane@example.com,"Estação Arthur Miguel Pimenta, 68
+Nova Pampulha
+87543377 Azevedo Grande / RN","Avenida Sousa
+Vila Santo Antônio
+23449986 Souza / PR",5000,3,sim
+Benjamim Teixeira,26348496995,"Núcleo de da Mota, 538
+Vila Nova Cachoeirinha 1ª Seção
+65741-932 Câmara de Ramos / RJ",0300 116 7447,dcorreia@example.net,"Núcleo de da Mota, 538
+Vila Nova Cachoeirinha 1ª Seção
+65741-932 Câmara de Ramos / RJ","Lagoa Porto, 57
+Cdi Jatoba
+45081-897 Andrade / MG",10000,5,não
+Agatha Vieira,79085792484,"Parque Casa Grande
+Parque São José
+31525015 Nascimento de Goiás / SP",(041) 2067-3809,vasconcelossarah@example.org,"Parque Casa Grande
+Parque São José
+31525015 Nascimento de Goiás / SP","Quadra de Aragão, 53
+Vila Do Pombal
+32154378 Rios do Oeste / BA",10000,3,não
+Dr. Noah Lima,14112418190,"Aeroporto Bento Novaes, 15
+Camargos
+15671513 Caldeira / DF",+55 51 0835 7895,bellada-mata@example.com,"Aeroporto Bento Novaes, 15
+Camargos
+15671513 Caldeira / DF","Jardim Câmara, 988
+Vila Engenho Nogueira
+08477477 Gomes de Gomes / SP",1000,4,sim
+Dante Barros,64473921530,"Praça Ana Vitória Guerra, 79
+Novo Das Industrias
+30328128 Leão / AP",(061) 2800 6418,nicole15@example.org,"Praça Ana Vitória Guerra, 79
+Novo Das Industrias
+30328128 Leão / AP","Passarela de Alves, 20
+São Vicente
+14742873 Santos / PI",7000,1,não
+Dra. Natália Abreu,38818178404,"Vila Maria Liz Abreu, 99
+Mangabeiras
+75749-028 Carvalho / RS",61 3643 6481,camargosophie@example.org,"Vila Maria Liz Abreu, 99
+Mangabeiras
+75749-028 Carvalho / RS","Recanto Mariane Fogaça, 184
+São Geraldo
+41361014 Sales / TO",6000,5,não
+Sophia Costela,33211734922,"Fazenda Aparecida, 34
+Santa Isabel
+93378647 Porto / SP",0300-448-3738,xsousa@example.org,"Fazenda Aparecida, 34
+Santa Isabel
+93378647 Porto / SP","Passarela de Lima, 615
+Vila Vista Alegre
+54146-492 Leão / CE",10000,4,não
+Caio Ramos,88230361198,"Praça Rodrigues, 731
+Morro Dos Macacos
+94669-730 Nogueira / BA",+55 41 9880-4605,lsantos@example.com,"Praça Rodrigues, 731
+Morro Dos Macacos
+94669-730 Nogueira / BA","Ladeira Luiza Araújo, 362
+Maria Virgínia
+62927-480 Costa / RO",3000,2,não
+Isadora Barbosa,77916597354,"Lagoa de Rios, 8
+Olhos D'água
+94763896 Vasconcelos / RR",+55 11 8206 3124,asafecunha@example.net,"Lagoa de Rios, 8
+Olhos D'água
+94763896 Vasconcelos / RR","Praça de Sales, 76
+Vila Cloris
+77572-137 Cirino / GO",2000,1,sim
+Bento Santos,69339749364,"Chácara Davi Silva, 56
+Vila Barragem Santa Lúcia
+50950-002 Fernandes / SP",(061) 9495 3320,fogacaheloisa@example.com,"Chácara Davi Silva, 56
+Vila Barragem Santa Lúcia
+50950-002 Fernandes / SP","Recanto de Pires
+Canadá
+50267622 Pinto Verde / MA",3000,4,sim
+Maitê Pacheco,39366937900,"Passarela Montenegro, 84
+Horto Florestal
+37418-714 Garcia / ES",+55 31 9940-1272,peixotoalexia@example.net,"Passarela Montenegro, 84
+Horto Florestal
+37418-714 Garcia / ES","Estação da Luz, 74
+Padre Eustáquio
+89818730 das Neves / MA",5000,3,não
+Isabella Nascimento,59004793586,"Via Costa
+Vila Pinho
+25209310 Macedo da Prata / GO",+55 84 8008 7605,barbosaeloa@example.net,"Via Costa
+Vila Pinho
+25209310 Macedo da Prata / GO","Lago Vinicius Vasconcelos
+Conjunto Providencia
+91180990 Dias / RN",1000,1,sim
+Sarah Rocha,03769030746,"Área de Almeida, 5
+Ventosa
+47588121 Silva / ES",11 7736 2057,da-matavicente@example.com,"Área de Almeida, 5
+Ventosa
+47588121 Silva / ES","Pátio Giovanna Marques, 52
+Ribeiro De Abreu
+96163453 Correia / MS",3000,2,sim
+João Felipe Camargo,95903235025,"Conjunto Isis Jesus, 549
+São Sebastião
+36851126 Novaes do Norte / ES",0500-937-7244,benjamimgoncalves@example.org,"Conjunto Isis Jesus, 549
+São Sebastião
+36851126 Novaes do Norte / ES","Colônia Leão, 12
+Guarani
+59438904 Cavalcante / GO",1000,5,sim
+Ravy Moraes,83847815325,"Alameda Souza, 95
+Custodinha
+72387-323 Ribeiro do Norte / MG",+55 (031) 9119-1554,vborges@example.com,"Alameda Souza, 95
+Custodinha
+72387-323 Ribeiro do Norte / MG","Lago Lima, 634
+Vila Esplanada
+10104-323 Novais / AM",6000,5,não
+Maysa Porto,18965096145,"Ladeira Ana Carolina Caldeira, 6
+Vila Aeroporto
+44260585 Marques da Prata / BA",(061) 3030-6100,azevedogael@example.net,"Ladeira Ana Carolina Caldeira, 6
+Vila Aeroporto
+44260585 Marques da Prata / BA","Sítio Oliveira
+Nova Vista
+45489-784 Rodrigues Grande / AL",1000,2,sim
+Stephany Brito,65093929335,"Residencial Ravi Lucca Mendonça, 75
+Marmiteiros
+33357702 Vasconcelos de Minas / AL",0300 678 8781,emilly93@example.net,"Residencial Ravi Lucca Mendonça, 75
+Marmiteiros
+33357702 Vasconcelos de Minas / AL","Núcleo de Costela, 98
+Luxemburgo
+41453-375 Ferreira dos Dourados / AM",7000,1,não
+Otávio Albuquerque,33206869419,"Parque de Almeida, 22
+Baleia
+20298-668 Albuquerque / RN",51 0472 2485,santosmarcela@example.net,"Parque de Almeida, 22
+Baleia
+20298-668 Albuquerque / RN","Parque Rocha, 2
+Independência
+03397-733 da Rosa / RO",7000,3,não
+Clara das Neves,24443174916,"Largo de Albuquerque, 4
+Alta Tensão 1ª Seção
+73522-226 Ribeiro / PB",(081) 3504-9451,anaborges@example.org,"Largo de Albuquerque, 4
+Alta Tensão 1ª Seção
+73522-226 Ribeiro / PB","Distrito de Fernandes, 50
+Araguaia
+39506261 Almeida / AC",10000,1,não
+Anthony Siqueira,93778138674,"Trecho Andrade
+São Gabriel
+35852-176 da Mata / PE",0500 673 6635,ana-julia18@example.com,"Trecho Andrade
+São Gabriel
+35852-176 da Mata / PE","Loteamento Melina Pires, 130
+Vila São Paulo
+46840237 Costela de Goiás / MA",3000,1,não
+Ana Cecília Garcia,89032040261,"Rua Jesus, 353
+Parque São Pedro
+43194-704 Pastor de Rios / AL",+55 (011) 1582-7850,carvalhooliver@example.com,"Rua Jesus, 353
+Parque São Pedro
+43194-704 Pastor de Rios / AL","Vale Amanda Campos, 274
+Vila Sumaré
+01937-574 Andrade / DF",5000,1,não
+Sr. Kevin Campos,35120809959,"Vila de Moreira
+Beija Flor
+16435-985 Cavalcanti / ES",(071) 0094-3753,caldeiradavi-lucas@example.com,"Vila de Moreira
+Beija Flor
+16435-985 Cavalcanti / ES","Trevo de Pinto, 876
+Miramar
+18080-335 Oliveira de Goiás / MA",2000,2,sim
+Bruna Cunha,91971371038,"Estrada de da Conceição, 33
+São Sebastião
+15953-336 da Paz da Praia / AL",+55 (031) 1011 5890,heloisamoreira@example.com,"Estrada de da Conceição, 33
+São Sebastião
+15953-336 da Paz da Praia / AL","Colônia da Mata, 43
+Jaraguá
+51533-770 Nunes dos Dourados / RR",10000,4,sim
+Maria Luísa Sales,49955636877,"Vale Martins, 86
+Esplanada
+54743-444 Gonçalves / PB",+55 (071) 4656 0526,juan07@example.org,"Vale Martins, 86
+Esplanada
+54743-444 Gonçalves / PB","Pátio de Vargas
+Madri
+95346-048 Cunha / TO",4000,1,sim
+Matteo da Cunha,26897004686,"Sítio Aragão, 5
+Vila Antena
+45413980 Borges / AM",(031) 5284-0725,maria-julia73@example.com,"Sítio Aragão, 5
+Vila Antena
+45413980 Borges / AM","Lago Bento Araújo, 19
+Belmonte
+72312959 Lopes / RJ",3000,4,não
