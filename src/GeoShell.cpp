@@ -63,27 +63,27 @@ std::array<double, 2> GeoShell::get_coordinates(std::string location)
     return coordinates;
 }
 
-std::array<double, 2> GeoShell::mapsRequest(std::string location)
-{
-    CURL *curl;
-    CURLcode res;
-    std::string readBuffer;
+// std::array<double, 2> GeoShell::mapsRequest(std::string location)
+// {
+//     CURL *curl;
+//     CURLcode res;
+//     std::string readBuffer;
 
-    curl = curl_easy_init();
+//     curl = curl_easy_init();
 
-    if(curl){
-        curl_easy_setopt(curl, CURLOPT_URL, "http://www.maps.google.com");
-        curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, myFunctionCallBack);
-        curl_easy_setopt(curl, CURLOPT_WRITEDATA, &readBuffer);
-        res = curl_easy_perform(curl);
-        curl_easy_cleanup(curl);
+//     if(curl){
+//         curl_easy_setopt(curl, CURLOPT_URL, "http://www.maps.google.com");
+//         curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, myFunctionCallBack);
+//         curl_easy_setopt(curl, CURLOPT_WRITEDATA, &readBuffer);
+//         res = curl_easy_perform(curl);
+//         curl_easy_cleanup(curl);
 
-        std::cout << readBuffer << std::endl;
-    }
-}
+//         std::cout << readBuffer << std::endl;
+//     }
+// }
 
-static size_t myFunctionCallBack(char* contents, size_t size, size_t nmemb, char* buffer_in)
-{
-    ((std::string*)buffer_in)->append((char*)contents, size * nmemb);
-    return size * nmemb;
-}
+// static size_t myFunctionCallBack(char* contents, size_t size, size_t nmemb, char* buffer_in)
+// {
+//     ((std::string*)buffer_in)->append((char*)contents, size * nmemb);
+//     return size * nmemb;
+// }
