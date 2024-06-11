@@ -12,7 +12,7 @@ The system's architecture revolves around fundamental classes like Vehicle, Clie
 For more information, [click here](assets/docs/SystemArchitecture.md).
 
 ## Requirements:
-The project currently only supports Linux environments with Curl pre-installed.
+The project currently only supports Linux environments with Curl/libcurl API pre-installed.
 
 > **IMPORTANT!**
 > The project does not support parallelization at this time.
