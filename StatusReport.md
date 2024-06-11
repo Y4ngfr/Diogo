@@ -7,15 +7,13 @@
 Durante essa primeira sprint, o time de desenvolvimento foi introduzido ao problema apresentado pela transportadora (fictícia) Baita Carga. O produto a ser desenvolvido trata-se de um sistema de gerenciamento de entregas para a empresa. Baseado nos dados fornecidos, conseguimos construir alguns componentes básicos que o sistema deve possuir, dessa forma, podemos ter uma base para começar a desenvolver nossa aplicação.
 
 ## Implementação
-A partir do que foi fornecido pela empresa, a equipe de desenvolvimento foi capaz de criar as classes básicas para operação da empresa: Automobile (e algumas classes-filho como: Car, Lorry e PickupTruck), Client e Order
+A partir do que foi fornecido pela empresa, a equipe de desenvolvimento foi capaz de criar as classes básicas para operação da empresa: Automobile (e algumas classes-filho como: Car, Lorry e PickupTruck), Client e Order.
 
 ## Próximos passos:
 - Refatorar o código, corrigindo erros.
 - Desenvolver novas features.
 
 </details>
-
-
 
 # 01/04/2024 - 08/04/2024
 <details>
@@ -38,14 +36,11 @@ Descrição: A classe Garage, serve para gerenciar os carros possuídos pela emp
 - Listar veículos ativos;
 - Buscar veículo por ID;
 - Adicionar e remover veículos.
-
 Próximos passos:
 - Encontrar veículo mais próximo;
 - Converter endereços para coordenadas.
 
 </details>
-
-
 
 # 08/04/2024 - 15/04/2024
 <details>
@@ -67,17 +62,13 @@ Baseado em uma ferramenta desenvolvida em Shell Script, o GeoShell atualmente po
 A classe Transport representa um transporte associado a um pedido e um veículo específico. Ela mantém informações como o ID do transporte, o ID do pedido, o ID do veículo, os endereços de coleta e entrega e o nome do destinatário.
 
 ## TransportManager
-
 Descrição: O TransportManager é uma classe que gerencia o transporte de pedidos em uma empresa. Ele mantém uma lista de transportes, cada um associado a um pedido e a um veículo da frota da empresa. Além disso, o TransportManager está ligado a uma garagem onde os veículos são mantidos. Assim, facilitando operações relacionadas ao transporte, como criar novos transportes, encontrar o veículo disponível mais próximo de um determinado endereço, calcular distâncias entre coordenadas geográficas e listar os transportes associados a um pedido ou veículo específico.
-
 Próximos passos:
 - Converter coordenadas para endereço;
 - Otimizar a alocação de transportes;
 - Decrementar na capacidade de carga;
   
 </details>
-
-
 
 # 15/04/2024 - 22/04/2024
 <details>
@@ -89,6 +80,8 @@ Durante essa sprint, a equipe exerceu duas atividades principais:
 ## Refatoração do código
 Agora, todos os métodos possuem uma descrição de seu funcionamento, baseado no estilo Doxygen. Permitindo que o programador, ou o usuário, possam compreender rapidamente o funcionamento e o propósito do método. 
 
+</details>
+
 # 22/04/2024 - 29/04/2024
 <details>
 
@@ -99,19 +92,46 @@ Durante essa sprint, a equipe exerceu as seguintes atividades principais:
 - Foi adicionado um arquivo Makefile para agilizar e padronizar o processo de compilação do sistema
 
 ## Refatoração do código
-Foi alterado o estilo de includes dos arquivos cabeçalhos e de implementação, foram adicionados atributos novos à classe cliente para estar compatível com o arquivo de entrada, foram alteradas algumas classes para permitir o uso de coordenadas com double ao invés de string
+Foi alterado o estilo de includes dos arquivos cabeçalhos e de implementação, foram adicionados atributos novos à classe cliente para estar compatível com o arquivo de entrada, foram alteradas algumas classes para permitir o uso de coordenadas com double ao invés de string.
 
 ## EntryManager
 A classe é responsável por ler arquivos de entrada e fazer o instanciamento das classes solicitadas, guardando-as em uma lista.
 
 ## input
 Diretório onde serão guardados todos os arquivos de entrada
-
-
-![Exemplo de estilo de Doxygen](assets/img/doxygen_style.png)
-
 Próximos passos:
 - Melhorar a arquitetura geral do sistema, criando novos métodos de controle.
 - Estudo de uma politica de encaminhamento de entregas.
+
+</details>
+
+# 29/04/2024 - 20/05/2024
+<details>
+
+Durante essa sprint, a equipe exerceu as seguintes atividades principais:
+- Refatorar o código, onde foi alterado/corrigido funções da classe EntryManager.
+- O arquivo de entrada foi alterado para deixar os testes do sistema mais rápidos e mais produtivos.
+- Foi iniciado o desenvolvimento de uma nova função de requisição de coordenadas do local.
+
+## Refatoração do código
+Foi concluido a função de processamento de entrada e corrigidas as funções de inicialização e encerramento dos atributos (listas) da classe EntryManager.
+Próximos passos:
+- Finalizar o novo sistema de requisição de coordenadas do GeoShell.
+- Corrigir o padrão utilizado na codificação.
+
+</details>
+
+# 20/05/2024 - 11/06/2024
+<details>
+
+Durante essa sprint, a equipe exerceu as seguintes atividades principais:
+- Refatorar o código, onde foi finalizado o novo sistema de requisição de coordenadas utilizando a API libcurl
+- O padrão de codificação de novas classes e métodos foi atualizado para snake case (antes camel case)
+
+## Refatoração do código
+Foi conluido um novo sistema de requisição de coordenadas utilizando API libcurl ao invés do script shell. Porém
+o google maps pode bloquear as requisições se detectar tráfego incomum, por isso, uma solução possível seria 
+implementar um novo sistema de requisição de coordenadas utilizando uma API paga do google maps ou uma alternativa
+gratúita.
 
 </details>

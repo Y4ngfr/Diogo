@@ -67,7 +67,7 @@ std::array<double, 2> GeoShell::mapsRequest(std::string location)
 {
     CURL *curl;
     CURLcode res;
-    std::string readBuffer, substring, url;
+    std::string read_buffer, substring, url;
     size_t pos, i, offset;
     double lat, lon;
     std::array<double,2> coordinates;
@@ -80,7 +80,7 @@ std::array<double, 2> GeoShell::mapsRequest(std::string location)
 
         curl_easy_setopt(curl, CURLOPT_URL, url.c_str());
         curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, myFunctionCallBack);
-        curl_easy_setopt(curl, CURLOPT_WRITEDATA, &readBuffer);
+        curl_easy_setopt(curl, CURLOPT_WRITEDATA, &read_buffer);
 
         res = curl_easy_perform(curl);
 
@@ -97,22 +97,22 @@ std::array<double, 2> GeoShell::mapsRequest(std::string location)
         return {0.0,0.0};
     }
 
-    pos = readBuffer.find("APP_INITIALIZATION_STATE");
+    pos = read_buffer.find("APP_INITIALIZATION_STATE");
 
     if(pos == std::string::npos){
         std::cout << "Bloqueado" << std::endl;
         return {0.0, 0.0};
     }
 
-    std::cout << readBuffer << std::endl;
+    std::cout << read_buffer << std::endl;
 
     i = pos;
-    while(readBuffer[i] != ',') i++;
+    while(read_buffer[i] != ',') i++;
 
     offset = i - pos + 1;
 
-    while(readBuffer[i] != ']') i++;
-    substring = readBuffer.substr(pos + offset, i - (pos + offset));
+    while(read_buffer[i] != ']') i++;
+    substring = read_buffer.substr(pos + offset, i - (pos + offset));
     exit(0);
 
     lat = std::stod(substring.substr(substring.find(',') + 1));
