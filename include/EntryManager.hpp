@@ -9,27 +9,27 @@
 class EntryManager
 {
     private:
-        std::string pathFile;
+        std::string path_file;
         std::list<Client*>* clients;
         std::list<Order*>* orders;
 
     public:
         // CONSTRUCTOR
         EntryManager();
-        EntryManager(std::string pathFile);
+        EntryManager(std::string path_file);
 
         // GETTER FUNCTIONS
-        std::string getPathFile();
+        std::string get_path_file();
 
         // SETTER FUNCTIONS
-        void setPathFile(std::string pathFile);
+        void set_path_file(std::string path_file);
 
         // MAIN FUNCTIONS
-        int inputFileProcessing();
+        int input_file_processing();
 
         // CLEAR FUNCTIONS
-        void clearClients();
-        void clearOrders();
+        void clear_clients();
+        void clear_orders();
 
         // DECONSTRUCTOR
         ~EntryManager();

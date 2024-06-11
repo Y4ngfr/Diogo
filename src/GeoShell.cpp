@@ -63,27 +63,66 @@ std::array<double, 2> GeoShell::get_coordinates(std::string location)
     return coordinates;
 }
 
-// std::array<double, 2> GeoShell::mapsRequest(std::string location)
-// {
-//     CURL *curl;
-//     CURLcode res;
-//     std::string readBuffer;
+std::array<double, 2> GeoShell::mapsRequest(std::string location)
+{
+    CURL *curl;
+    CURLcode res;
+    std::string readBuffer, substring, url;
+    size_t pos, i, offset;
+    double lat, lon;
+    std::array<double,2> coordinates;
 
-//     curl = curl_easy_init();
+    curl = curl_easy_init();
 
-//     if(curl){
-//         curl_easy_setopt(curl, CURLOPT_URL, "http://www.maps.google.com");
-//         curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, myFunctionCallBack);
-//         curl_easy_setopt(curl, CURLOPT_WRITEDATA, &readBuffer);
-//         res = curl_easy_perform(curl);
-//         curl_easy_cleanup(curl);
+    if(curl){
+        url = "https://www.google.com/maps/search/" + location;
+        std::cout << url << std::endl;
 
-//         std::cout << readBuffer << std::endl;
-//     }
-// }
+        curl_easy_setopt(curl, CURLOPT_URL, url.c_str());
+        curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, myFunctionCallBack);
+        curl_easy_setopt(curl, CURLOPT_WRITEDATA, &readBuffer);
 
-// static size_t myFunctionCallBack(char* contents, size_t size, size_t nmemb, char* buffer_in)
-// {
-//     ((std::string*)buffer_in)->append((char*)contents, size * nmemb);
-//     return size * nmemb;
-// }
+        res = curl_easy_perform(curl);
+
+        if(res != CURLE_OK){
+            std::cout << "Erro ao realizar a requisição: " << curl_easy_strerror(res) << std::endl;
+            curl_easy_cleanup(curl);
+            return {0.0,0.0};
+        }
+
+        curl_easy_cleanup(curl);
+    }
+    else{
+        std::cout << "Erro ao inicializar o libcurl" << std::endl;
+        return {0.0,0.0};
+    }
+
+    pos = readBuffer.find("APP_INITIALIZATION_STATE");
+
+    if(pos == std::string::npos){
+        std::cout << "Bloqueado" << std::endl;
+        return {0.0, 0.0};
+    }
+
+    std::cout << readBuffer << std::endl;
+
+    i = pos;
+    while(readBuffer[i] != ',') i++;
+
+    offset = i - pos + 1;
+
+    while(readBuffer[i] != ']') i++;
+    substring = readBuffer.substr(pos + offset, i - (pos + offset));
+    exit(0);
+
+    lat = std::stod(substring.substr(substring.find(',') + 1));
+    lon = std::stod(substring.substr(0, substring.find(',')));
+
+    return {lat, lon};
+}
+
+size_t GeoShell::myFunctionCallBack(char* contents, size_t size, size_t nmemb, char* buffer_in)
+{
+    ((std::string*)buffer_in)->append((char*)contents, size * nmemb);
+    return size * nmemb;
+}

@@ -29,8 +29,8 @@ int main()
     // Entry Manager
     EntryManager *entry = new EntryManager();
 
-    entry->setPathFile("input/dados_entregas_lite.csv");
-    entry->inputFileProcessing();
+    entry->set_path_file("input/dados_entregas_lite.csv");
+    entry->input_file_processing();
 
     // Creating a new TransportManager object using garagem_do_tonho vehicles
     
